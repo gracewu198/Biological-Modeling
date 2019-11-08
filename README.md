@@ -5,8 +5,11 @@ This repository will be used for modeling different biological systems.
 
 ### References
 The organization and occupancy of synaptic vesicle fusion sites - Watanabe - https://www.dropbox.com/s/b10kt2z6rgh71c6/191020_SfN_poster_v2.pdf?dl=0
+
 Organization of the core structure of the postsynaptic density - https://www.pnas.org/content/105/11/4453
+
 The Glutamate Receptor Ion Channels - http://pharmrev.aspetjournals.org/content/51/1/7
+
 Glutamate receptor ion channels: structure, regulation, and function. - https://www.ncbi.nlm.nih.gov/pubmed/20716669
 
 ## Resources
