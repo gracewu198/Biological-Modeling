@@ -12,7 +12,10 @@ The Glutamate Receptor Ion Channels - http://pharmrev.aspetjournals.org/content/
 
 Glutamate receptor ion channels: structure, regulation, and function. - https://www.ncbi.nlm.nih.gov/pubmed/20716669
 
-## Resources
+## Modeling AP Conduction Velocity Given Axon Morphology Plasticity
+Superresolution imaging reveals activity-dependent plasticity of axon morphology linked to changes in action potential conduction velocity. - https://www.ncbi.nlm.nih.gov/pubmed/28115721
+
+## Other Resources
 ### Hodgekin-Huxley Equations
 http://www.math.pitt.edu/~bdoiron/assets/ermentrout-and-terman-ch-1.pdf
 
