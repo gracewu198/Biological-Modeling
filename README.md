@@ -17,6 +17,10 @@ Glutamate receptor ion channels: structure, regulation, and function. - https://
 ### References
 Superresolution imaging reveals activity-dependent plasticity of axon morphology linked to changes in action potential conduction velocity. - https://www.ncbi.nlm.nih.gov/pubmed/28115721
 
+Relative Conduction Velocities of Small Myelinated and Non-myelinated Fibres in the Central Nervous System - https://www.nature.com/articles/newbio238217a0
+
+Changes of action potential shape and velocity for changing core conductor geometry. - https://www.ncbi.nlm.nih.gov/pubmed/4420585
+
 Deriving Cable Equation - https://pages.jh.edu/motn/coursenotes/cable.pdf
 
 ## Other Resources
