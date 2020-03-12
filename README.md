@@ -17,6 +17,8 @@ Glutamate receptor ion channels: structure, regulation, and function. - https://
 ### References
 Superresolution imaging reveals activity-dependent plasticity of axon morphology linked to changes in action potential conduction velocity. - https://www.ncbi.nlm.nih.gov/pubmed/28115721
 
+Deriving Cable Equation - https://pages.jh.edu/motn/coursenotes/cable.pdf
+
 ## Other Resources
 ### Hodgekin-Huxley Equations
 http://www.math.pitt.edu/~bdoiron/assets/ermentrout-and-terman-ch-1.pdf
