@@ -31,7 +31,8 @@ http://www.math.pitt.edu/~bdoiron/assets/ermentrout-and-terman-ch-1.pdf
 https://www.pacm.princeton.edu/sites/pacm/files/kimura.pdf
 
 ### Finite element method
-https://en.wikipedia.org/wiki/Finite_element_method \\
+https://en.wikipedia.org/wiki/Finite_element_method
+
 http://sfepy.org/doc-devel/index.html
 
 ### Numerical Methods in Python
