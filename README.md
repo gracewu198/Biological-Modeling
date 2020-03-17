@@ -32,3 +32,7 @@ https://www.pacm.princeton.edu/sites/pacm/files/kimura.pdf
 
 ### Finite element method
 https://en.wikipedia.org/wiki/Finite_element_method
+http://sfepy.org/doc-devel/index.html
+
+### Numerical Methods in Python
+http://people.bu.edu/andasari/courses/numericalpython/python.html
